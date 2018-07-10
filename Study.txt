@@ -1,0 +1,8 @@
+1. cd /e       　　
+读取e盘下  
+2. mkdir   gitwork   　　
+创建版本库  gitwork
+3. cd gitwork 　
+ 读取 gitwork文件夹下  
+ 
+ come on
