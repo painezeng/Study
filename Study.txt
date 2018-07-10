@@ -5,4 +5,7 @@
 3. cd gitwork 　
  读取 gitwork文件夹下  
  
- come on
+
+ 
+ git reset --hard commit_id。
+
